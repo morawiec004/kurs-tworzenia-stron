@@ -1,27 +1,24 @@
 .content {
-    
-    align-items: center;
-    justify-content: center;
+    text-align: center;
+    line-height: 2;
 }
 
 .content1 {
-    
-    align-items: center;
-    justify-content: center;
+    text-align: center;
+    line-height: 2;
 }
 
 .content2 {
-    
-    align-items: center;
-    justify-content: center;
+   text-align: center;
+   line-height: 2;
 }
 
 #aboutCardsContainer {
     background-color: white;
     display: flex;
     justify-content: center;
-    height: 500px;
-    width: 1920px;
+    height: 800px;
+    width: 1860px;
     align-items: center;
     margin-top: 300px;
     flex-wrap: wrap;
