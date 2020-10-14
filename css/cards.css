@@ -1,33 +1,28 @@
-#cards {
-
-
+.content {
+    
+    align-items: center;
+    justify-content: center;
 }
 
-.aboutText1 {
-    width: 200px;
-    height: 100px;
-
+.content1 {
+    
+    align-items: center;
+    justify-content: center;
 }
 
-.aboutText2 {
-    width: 200px;
-    height: 100px;
+.content2 {
     
-}
-
-.aboutText3 {
-    width: 200px;
-    height: 100px;
-    
-    
+    align-items: center;
+    justify-content: center;
 }
 
 #aboutCardsContainer {
     background-color: white;
     display: flex;
     justify-content: center;
-    height: 300px;
-    width: 500px;
+    height: 500px;
+    width: 1920px;
     align-items: center;
     margin-top: 300px;
+    flex-wrap: wrap;
 }
