@@ -1,0 +1,33 @@
+#cards {
+
+
+}
+
+.aboutText1 {
+    width: 200px;
+    height: 100px;
+
+}
+
+.aboutText2 {
+    width: 200px;
+    height: 100px;
+    
+}
+
+.aboutText3 {
+    width: 200px;
+    height: 100px;
+    
+    
+}
+
+#aboutCardsContainer {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width: 500px;
+    align-items: center;
+    margin-top: 300px;
+}
